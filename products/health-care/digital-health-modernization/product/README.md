@@ -49,6 +49,7 @@ Using Marty Cagan's framework for risk in absence of a compelling reason not to.
 
 ### Feasibility
 - Engineering is a blind spot. There are many ways to handle making MHV and VA.gov feel, or actually be, more cohesive, that could eventually look the same to end users. However they could differ by many person-years of effort, and by specific technical risks. This is probably the first risk to tackle because it will inform both the value risk (by telling us which parts of the system are least problematic to change) and viability risk (by telling us something about how many people / how much time is the floor for making progress). 
+- What are we willing to stop doing in order to do this? Irrespective of specific strategy, any strategy should require multiple teams to change their roadmaps.
 
 ### Usability
 - Not yet a concern. This comes after the other risks, and is the easiest to address algorithmically. Team needs designer when "later" arrives. 
