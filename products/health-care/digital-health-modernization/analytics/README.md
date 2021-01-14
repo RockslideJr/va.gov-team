@@ -21,6 +21,8 @@ Direct access to analytics tools is strongly preferred to reports.
 - Number of active user accounts last 90 days, by type and available auth methods
 - Number of auth attempts per user, for all users active in last 90 days (anonymized)
 - Number of failed auth attempts per user, for all users active in last 90 days (anonymized)
+- Number of users viewed identity verification prompt on VA.gov (possible if referred specifically from MHV?)
+- Number of users successfully completed identity verification 48 hours after viewing prompt on VA.gov (time window arbitrary)
 
 ### Messages
 
